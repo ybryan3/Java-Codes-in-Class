@@ -1,5 +1,4 @@
 # Java-Codes-in-Class
-
 BMI Tester:
 - Given input from user via Scanner, ouputs BMI.
 - Accounts for 4 metrics: kilogram, meter, pound, and inch
@@ -21,9 +20,7 @@ QuadFuncCal:
 Quadratic Function Calculator given variables a, b, and c.
 Ex) x^2 + 3x+ 2 = 0 → a = 1, b = 3, c = 2
 
-      -b ± sqrt(b^2 - 4ac)
- x=  ___________________
-                  2a
+ x=  (-b ± sqrt(b^2 - 4ac)) / (2a)
 
 SalaryCal:
 Takes string and double inputs using Scanner and outputs one of the three
