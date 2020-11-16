@@ -20,7 +20,7 @@ QuadFuncCal:
 Quadratic Function Calculator given variables a, b, and c.
 Ex) x^2 + 3x+ 2 = 0 → a = 1, b = 3, c = 2
 
- x=  (-b ± sqrt(b^2 - 4ac)) / (2a)
+ x=  -b ± sqrt(b^2 - 4ac) / 2a
 
 SalaryCal:
 Takes string and double inputs using Scanner and outputs one of the three
@@ -28,5 +28,6 @@ Takes string and double inputs using Scanner and outputs one of the three
 2) The number of hours your entered does not comply with company policy
 3) The total pay for <%s> is <%.2f> dollars", fullName, answer
 - Assumed overtime work hours is determined by "hoursworked" minus 40
+
 
 
